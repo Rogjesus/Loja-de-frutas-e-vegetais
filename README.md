@@ -1,5 +1,5 @@
 Descrição
-Este repositório contém o código para um site de pedidos de comida chamado "". O site foi projetado para mostrar vários produtos alimentícios, permitir que os usuários adicionem itens ao carrinho de compras e leiam blogs relacionados a produtos frescos e orgânicos. Ele também fornece recursos como pagamentos fáceis, entrega gratuita e avaliações de clientes.
+Este repositório contém o código para um site de pedidos de comida chamado "88 Ifood". O site foi projetado para mostrar vários produtos alimentícios, permitir que os usuários adicionem itens ao carrinho de compras e leiam blogs relacionados a produtos frescos e orgânicos. Ele também fornece recursos como pagamentos fáceis, entrega gratuita e avaliações de clientes.
 
 Índice
 Introdução
